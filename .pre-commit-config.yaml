@@ -1,0 +1,13 @@
+default_install_hook_types:
+  - pre-commit
+  - commit-msg
+
+repos:
+  # Remind me to use conventional commits so the release and changelog generator
+  # works. I will forget otherwise.
+  - repo: https://github.com/compilerla/conventional-pre-commit
+    rev: 91ab4bf57e58b32adf1a122681f6ebe164d081c8
+    hooks:
+      - id: conventional-pre-commit
+        stages: [commit-msg]
+        args: []
