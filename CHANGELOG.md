@@ -1,3 +1,10 @@
+# 1.0.0 (2026-07-08)
+
+
+### Features
+
+* hey semantic release thingy can you release please ([2779505](https://github.com/arm32x/custom-revanced-patches/commit/27795055e36e92d8f9e0a21261c2c050b7b01bf9))
+
 ## [1.0.4](https://github.com/ReVanced/revanced-patches-template/compare/v1.0.3...v1.0.4) (2024-11-05)
 
 ## [1.0.4-dev.2](https://github.com/ReVanced/revanced-patches-template/compare/v1.0.4-dev.1...v1.0.4-dev.2) (2024-11-05)
