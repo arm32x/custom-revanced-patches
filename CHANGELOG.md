@@ -1,3 +1,10 @@
+# [1.1.0-dev.1](https://github.com/arm32x/custom-revanced-patches/compare/v1.0.0...v1.1.0-dev.1) (2026-07-10)
+
+
+### Features
+
+* Change font name in font style menu ([daed78d](https://github.com/arm32x/custom-revanced-patches/commit/daed78da57cf20515946b738d3e89104c13bccb3))
+
 # 1.0.0 (2026-07-08)
 
 
